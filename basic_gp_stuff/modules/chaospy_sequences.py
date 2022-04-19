@@ -1,6 +1,6 @@
 # -*- coding: iso-8859-1 -*-
 """
-NOTE: I AM NOT THE AUTHOR OF THIS CODE!
+NOTE: Author unknown
 
 Generate Chebyshev pseudo-random samples.
 Example usage
